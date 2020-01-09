@@ -9,7 +9,7 @@ Este projeto foi desenvolvido de modo que você se familiarize com os muitos alg
 
 ### O que você aprenderá ao concluir este projeto:
 
-Como identificar se o pré-processamento é necessário e como aplicá-lo.
-Como estabelecer uma referência para uma solução do problema.
-O que cada um dos vários algoritmos de aprendizagem supervisionada realiza, considerando um conjunto de dados específico.
-Como avaliar se um candidato a modelo de solução é adequado ao problema.
+* Como identificar se o pré-processamento é necessário e como aplicá-lo.
+* Como estabelecer uma referência para uma solução do problema.
+* O que cada um dos vários algoritmos de aprendizagem supervisionada realiza, considerando um conjunto de dados específico.
+* Como avaliar se um candidato a modelo de solução é adequado ao problema.
