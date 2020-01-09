@@ -4,11 +4,13 @@ CharityML é uma instituição de caridade fictícia localizada no centro do Val
 ### Software e bibliotecas
 Este projeto usa os seguintes software e bibliotecas Python:
 
-Python
-NumPy
-Pandas
-scikit-learn (v0.17)
-Matplotlib
+* Python
+* NumPy
+* Pandas
+* scikit-learn (v0.17)
+* Matplotlib
+
+</br></br>
 Você também precisará ter um software instalado para rodar e executar um Notebook Jupyter.
 
 Se você ainda não tem o Python instalado, é altamente recomendado que instale a distribuição Anaconda, que já tem os pacotes acima incluídos.
@@ -18,7 +20,9 @@ Para esta tarefa, você pode achar a pasta finding_donors, contendo os arquivos 
 
 Este projeto contém três arquivos:
 
-finding_donors.ipynb: Este é o arquivo principal com o qual você trabalhará em seu projeto.
-census.csv: O conjunto de dados do projeto. Você carregará esses dados no notebook.
-visuals.py: Este script de Python fornece visualizações suplementares para o projeto. Não o modifique.
+* finding_donors.ipynb: Este é o arquivo principal com o qual você trabalhará em seu projeto.
+* census.csv: O conjunto de dados do projeto. Você carregará esses dados no notebook.
+* visuals.py: Este script de Python fornece visualizações suplementares para o projeto. Não o modifique.
+
+</br></br>
 No terminal ou janela de comando, navegue até a pasta contendo os arquivos do projeto; em seguida, use o comando jupyter notebook finding_donors.ipynb para abrir uma janela ou aba do navegador e trabalhar com seu notebook. Alternativamente, você pode usar o comando jupyter notebook ou ipython notebook e navegar para o arquivo notebook na janela do navegador que abrir. Siga as instruções no notebook e responda a todas as perguntas apresentadas para concluir o projeto com sucesso. Um arquivo README também foi fornecido com os arquivos de projeto, contendo as instruções ou informações adicionais necessárias.
